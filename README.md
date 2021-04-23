@@ -1,6 +1,6 @@
 # ML-algorithm-tests
 
-What does this code ? 😀
+What does this code ? 😀 
 
 This code takes the data_set and splits it as training and test according to the input parameter(4th). Then according to the request's type(regression or classification) function tests the listed algorithms and outputs the their accuracy results with using different metrics.
 
