@@ -8,16 +8,17 @@ This code takes the data_set and splits it as training and test according to the
 * Kaan KALAN
 * Ecem EMİROĞLU
 * Ayşe Simge ALMAŞ
-* 
+
 Used Regression Algorithms:
-            * ("LGBM", LGBMRegressor()),
-            * ("XGBR", XGBRegressor()),
-            * ("GBR", GradientBoostingRegressor()),
-            * ("RFR", RandomForestRegressor(random_state = 42)),
-            * ("DT", DecisionTreeRegressor(max_leaf_nodes = 10)),
-            * ("MLP", MLPRegressor()),
-            * ("Knn", KNeighborsRegressor()),
-            * ("SVR", SVR("linear")),
+
+ * ("LGBM", LGBMRegressor()),
+ * ("XGBR", XGBRegressor()),
+ * ("GBR", GradientBoostingRegressor()),
+ * ("RFR", RandomForestRegressor(random_state = 42)),
+ * ("DT", DecisionTreeRegressor(max_leaf_nodes = 10)),
+ * ("MLP", MLPRegressor()),
+ * ("Knn", KNeighborsRegressor()),
+ * ("SVR", SVR("linear")),
 
 
 Used Classification Algorithms:
